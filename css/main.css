@@ -1,4 +1,4 @@
-<!>
+<!DOCTYPE css>
 <html lang="en-ca">
 <head>
   <meta charset="utf-8">
@@ -7,6 +7,9 @@
   <link href="css/main.css" rel="stylesheet">
 </head>
 <body>
-
+  html{
+  /*Everything in here will design the HTML*/
+    background-color:#f1f2ed;
+  }
 </body>
 </html>
