@@ -1,19 +1,11 @@
-<!DOCTYPE >
-<html lang="en-ca">
-<head>
-  <meta charset="utf-8">
-  <title>Dinosaur designs</title>
-  <meta name="viewport" content="width=device-width,initial scale=1">
-  <link href="css/main.css" rel="stylesheet">
-</head>
-<body>
-
-html{
-    background-color:#f1f2ed;
+html {
+    background-color: #f2f1ed;
   }
 
-h1, h2, li {
-  font family: 'Patua One' ;
+h1 {
+font-family: 'Patua One', cursive;
 }
-</body>
-</html>
+
+h2 {
+
+}
