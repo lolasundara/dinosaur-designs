@@ -4,10 +4,11 @@ html {
     line-height: 1.5;
   }
 
-h1, h2, {
+over-write: h1, h2, {
 font-family: 'Patua One', cursive;
 }
 
-h2 {
-
+h1 {
+color: #5d8432 ;
+text-transform: uppercase ;
 }
