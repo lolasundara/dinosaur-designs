@@ -5,12 +5,12 @@ html {
 }
 
 h1 {
-text-align: center;
-font-family: "Patua One";
-font-size: 5rem;
-color: #5d8432;
-margin-top: .7rem;
-margin-bottom: 0;
+  text-align: center;
+  font-family: "Patua One";
+  font-size: 5rem;
+  color: #5d8432;
+  margin-top: .7rem;
+  margin-bottom: 0;
 }
 
 img {
@@ -18,10 +18,10 @@ img {
 }
 
 h2 {
-color: #5d8432;
-text-transform: uppercase;
-font-family: "Patua One", cursive;
-margin-top: 1.3rem;
+  color: #5d8432;
+  text-transform: uppercase;
+  font-family: "Patua One", cursive;
+  margin-top: 1.3rem;
 }
 
 figcaption {
