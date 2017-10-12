@@ -4,19 +4,59 @@ html {
     line-height: 1.5;
   }
 
-over-write: h1, h2, {
-font-family: 'Patua One', cursive;
-color: #5d8432 ;
-text-transform: uppercase;
-}
-
 h1 {
 text-align: center;
-font-style: italic;
-font-size: 1.0rem;
+font-family: "Patua One";
+font-size: 5rem;
+color: #5d8432;
+margin-top: .7rem;
+margin-bottom: 0;
+}
+
+img {
+  width: 100%;
 }
 
 h2 {
+color: #5d8432;
 text-transform: uppercase;
+font-family: "Patua One", cursive;
+margin-top: 1.3rem;
+}
 
+figcaption {
+  font-style: italic;
+  text-align: center;
+  font-size: .8rem;
+}
+
+nav {
+  font-family: "Patua One";
+  font-weight: bold;
+  font-size: 1.125rem;
+  margin top: 0;
+  margin-bottom: 0;
+}
+
+nav a:hover {
+  background-color:#b42885;
+  color: #793284;
+}
+
+header nav ol {
+  list-style: none;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+header nav ol li {
+  margin-left: inherit;
+}
+
+header nav a {
+  text-decoration: none;
+}
+
+#hadrosaur-caption {
+  font-size: 1rem;
 }
